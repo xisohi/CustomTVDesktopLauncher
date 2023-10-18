@@ -6,10 +6,10 @@ plugins {
 android {
     signingConfigs {
         debug {
-            storeFile file('D:\\tool\\tv_src\\default.jks')
-            storePassword 'default'
-            keyAlias 'default'
-            keyPassword 'default'
+            storeFile file('D:\\Program Files\\Android\\AndroidProject\\coocaa.jks')
+            storePassword 'xh8621989'
+            keyAlias 'xh8621989'
+            keyPassword 'xh8621989'
         }
     }
     compileSdkVersion 30
